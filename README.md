@@ -1,5 +1,3 @@
-<img width="1379" height="834" alt="Screenshot 2026-11-20 at 1 50 06 PM" src="https://github.com/user-attachments/assets/844766f9-45e1-4466-a2e1-789b6ab49359" /># 🎯 JobFit AI
-
 **An LLM-powered resume analyzer that scores your resume against any job description, explains the gaps, rewrites your bullets and preps you for the interview.**
 
 Built with Python, LLMs (via any OpenAI-compatible API such as Groq), local embeddings, and Retrieval-Augmented Generation (RAG).
