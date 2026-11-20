@@ -3,9 +3,8 @@
 Built with Python, LLMs (via any OpenAI-compatible API such as Groq), local embeddings, and Retrieval-Augmented Generation (RAG).
 
 <img width="1379" height="834" alt="Screenshot 2026-11-20 at 1 50 06 PM" src="https://github.com/user-attachments/assets/26524003-b712-4984-95e5-9d7215e9931c" />
----
 
-## ✨ Features
+##  Features
 
 | Feature | What it does | GenAI technique |
 |---|---|---|
