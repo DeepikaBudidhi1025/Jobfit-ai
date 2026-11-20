@@ -122,17 +122,6 @@ jobfit-ai/
 ├── tests/                 # pytest suite (offline)
 └── .github/workflows/     # CI
 ```
-
-## ☁️ Deploy for free (Streamlit Community Cloud)
-
-1. Push this repo to GitHub.
-2. Go to [share.streamlit.io](https://share.streamlit.io), click **New app**, select the repo and `app.py`.
-3. In **Advanced settings → Secrets**, add:
-   ```toml
-   LLM_API_KEY = "your-key"
-   ```
-4. Deploy, then put the live link at the top of this README and on your resume.
-
 ## 🛣️ Roadmap
 
 - [ ] Compare one resume against multiple job descriptions at once
