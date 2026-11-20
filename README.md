@@ -1,4 +1,4 @@
-# 🎯 JobFit AI
+<img width="1379" height="834" alt="Screenshot 2026-11-20 at 1 50 06 PM" src="https://github.com/user-attachments/assets/844766f9-45e1-4466-a2e1-789b6ab49359" /># 🎯 JobFit AI
 
 **An LLM-powered resume analyzer that scores your resume against any job description, explains the gaps, rewrites your bullets and preps you for the interview.**
 
@@ -43,6 +43,10 @@ Built with Python, LLMs (via any OpenAI-compatible API such as Groq), local embe
 **Why a hybrid score?** Pure LLM scores are inconsistent between runs. The embedding-based skill coverage is deterministic and explainable; the LLM adds judgement about seniority, depth and project quality. Blending both gives a score that is stable *and* sensible.
 
 **Reliable JSON from LLMs:** every structured call is validated with a Pydantic schema. If the model returns invalid JSON, the validation error is fed back and the model retries (see `jobfit/llm.py`).
+
+## Output Dashboard
+
+<img width="1379" height="834" alt="Screenshot 2026-11-20 at 1 50 06 PM" src="https://github.com/user-attachments/assets/26524003-b712-4984-95e5-9d7215e9931c" />
 
 ## 🚀 Quick start
 
