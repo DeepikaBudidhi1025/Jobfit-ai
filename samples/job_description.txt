@@ -1,0 +1,32 @@
+Job Title: Associate GenAI Engineer (Fresher, 0-1 years)
+Location: Bengaluru (Hybrid)
+
+About the role
+We are building AI assistants for enterprise customers. As an Associate GenAI Engineer you will help design, build and evaluate LLM-powered applications.
+
+Responsibilities
+- Build retrieval-augmented generation (RAG) pipelines over company documents.
+- Write and iterate on prompts; evaluate LLM outputs for quality and hallucinations.
+- Develop REST APIs for AI features using FastAPI.
+- Work with vector databases such as FAISS, Chroma or Pinecone.
+- Containerise and deploy services with Docker on a cloud platform.
+- Collaborate with product and data teams.
+
+Must have
+- Strong Python programming
+- Hands-on experience with LLM APIs (OpenAI, Groq, Gemini or similar)
+- Understanding of embeddings and vector search
+- RAG concepts
+- SQL
+- Git and GitHub
+
+Nice to have
+- LangChain or LlamaIndex
+- FastAPI
+- Docker
+- Cloud basics (AWS, GCP or Azure)
+- LLM evaluation / testing
+- Fine-tuning experience
+
+Eligibility
+B.E./B.Tech in CS, IT, AI & DS or related field, 2025 or 2026 pass-outs.

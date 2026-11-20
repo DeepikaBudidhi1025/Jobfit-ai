@@ -1,0 +1,40 @@
+ANANYA RAO
+Bengaluru, Karnataka | ananya.rao@example.com | github.com/ananya-rao | linkedin.com/in/ananya-rao
+
+EDUCATION
+B.E. in Artificial Intelligence and Data Science, 2022 - 2026
+Example Institute of Technology, Bengaluru | CGPA: 7.8 / 10
+
+SKILLS
+Languages: Python, SQL (basic)
+Libraries: Pandas, NumPy, Scikit-learn, Matplotlib
+GenAI: OpenAI API, Groq API, prompt engineering, LangChain (basic)
+Tools: Git, GitHub, VS Code, Jupyter Notebook, Streamlit
+
+PROJECTS
+PDF Question Answering Chatbot | Python, LangChain, FAISS, Streamlit
+- Built a chatbot that answers questions from uploaded PDF notes using retrieval-augmented generation.
+- Split documents into chunks, created embeddings and stored them in a FAISS vector index.
+- Deployed the app on Streamlit Community Cloud; used by 30+ classmates during exam preparation.
+
+Customer Churn Prediction | Python, Scikit-learn, Pandas
+- Trained logistic regression and random forest models on a 7,000-row telecom dataset.
+- Handled class imbalance with SMOTE and improved recall from 0.52 to 0.71.
+- Visualised feature importance with Matplotlib to explain churn drivers.
+
+Movie Review Sentiment Analyzer | Python, NLTK, Scikit-learn
+- Classified IMDB reviews as positive or negative using TF-IDF features and Naive Bayes.
+- Achieved 86% accuracy on the test set.
+
+EXPERIENCE
+Data Science Intern, Example Analytics Pvt Ltd (Jan 2026 - Mar 2026)
+- Cleaned and analysed sales data for a retail client using Pandas.
+- Built weekly Excel dashboards for the operations team.
+- Wrote prompts to summarise customer feedback with an LLM API.
+
+CERTIFICATIONS
+- Python for Data Science (NPTEL)
+- Generative AI Fundamentals (online course)
+
+ACHIEVEMENTS
+- Finalist, college-level hackathon 2025 (built an AI study planner)

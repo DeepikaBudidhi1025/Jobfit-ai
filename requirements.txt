@@ -1,0 +1,10 @@
+openai>=1.40
+streamlit>=1.38
+fastembed>=0.4
+numpy>=1.26
+pandas>=2.0
+pydantic>=2.6
+pypdf>=4.0
+python-docx>=1.1
+python-dotenv>=1.0
+pytest>=8.0
